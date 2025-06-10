@@ -22,7 +22,7 @@ A comprehensive tool for automatically cloning all repositories from a GitHub or
 
 ### Required Python Packages
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ### GitHub Access Requirements
